@@ -1,6 +1,6 @@
 # No-Reference Derained Image Quality Assessment: From Subjective Benchmarking to Distortion-Aware Representation Learning
 
-Official implementation of a no-reference image quality assessment (NR-IQA) method for derained images. The model combines a pretrained Convolutional Vision Transformer (CvT) backbone with two dedicated distortion extractors and a feature refinement module.
+Official implementation of No-Reference Derained Image Quality Assessment: From Subjective Benchmarking to Distortion-Aware Representation Learning.Our DQA software and dataset are available at (https://pan.baidu.com/s/1Dkch8cDRR82GOmPgDP0ASw?pwd=qmef access code: qmef)
 
 ## Highlights
 
